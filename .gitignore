@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+
+models/
+data/images/
+
+.ipynb_checkpoints/
+
+.streamlit/
+
+.env
+
+*.pth
+
+classification_report.txt
+confusion_matrix.png
